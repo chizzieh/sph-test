@@ -1,0 +1,1 @@
+This is the main file we are going to edit throughout this short lesson to demonstrate merge issues
